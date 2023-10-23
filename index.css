@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(36, 29, 42);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.box{
+    padding: 5px;
+    position: relative;
+    width: 450px;
+    height: 550px;
+    background-color: rgb(37, 37, 188);
+    /* box-shadow: 25px 25px 75px rosybrown inset; */
+    border-radius: 30px;
+}
+h2{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+}
+#t{
+    margin-left: 5px;
+    position: relative;
+    width: 80%;
+    border-radius: 20px;
+    padding: 15px 20px;
+}
+.box li{
+    position: relative;
+    display: flex;
+    width:70%;
+    border: 1px solid red;
+    align-items: center;
+    background-color: aquamarine;
+    padding: 10px;
+    margin-top: 4px;
+    border-radius: 20px;
+    color: rgb(236, 132, 6);
+
+
+}
